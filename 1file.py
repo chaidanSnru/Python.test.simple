@@ -1,3 +1,7 @@
 print("1 file of github")
 print("phakamas intase")
 print("klsdkfjskldf")
+print("jakkaphan")
+print("miw")
+print("ploy")
+print("MisterNot")
