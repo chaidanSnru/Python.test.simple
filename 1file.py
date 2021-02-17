@@ -15,4 +15,9 @@ print("sitapon")
 print("porramet")
 print("Narawit")
 print("sdkfjskldf-test444")
+<<<<<<< HEAD
+print("Hello world")
+=======
+print("Thawirat")
+print("Hello Chaidan")
 print("Hello world")
